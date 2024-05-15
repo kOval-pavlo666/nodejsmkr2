@@ -1,0 +1,20 @@
+[
+  {
+    "surname": "Smith",
+    "destination": "New York",
+    "numberPiecesBaggage": 2,
+    "weightBaggage": 25.5
+  },
+  {
+    "surname": "Doe",
+    "destination": "Los Angeles",
+    "numberPiecesBaggage": 1,
+    "weightBaggage": 15.0
+  },
+  {
+    "surname": "Brown",
+    "destination": "Chicago",
+    "numberPiecesBaggage": 3,
+    "weightBaggage": 30.7
+  }
+]
